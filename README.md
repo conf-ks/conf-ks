@@ -4,6 +4,7 @@
      The SVG paths below point to assets/generated/ which are auto-generated
      by the GitHub Actions workflow or by running: python -m generator.main -->
 
+# Hi, I'm Kevin 👋
 <div align="center">
   <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
@@ -29,23 +30,14 @@
 <br/>
 
 <details>
-<summary><strong>More about me</strong></summary>
+## More about me
 
-<br/>
+- 🔧 Fachinformatiker Anwendungsentwicklung aus Düsseldorf
+- 💼 Developer AL / Microsoft Dynamics 365 Business Central
+- 📫 Mail: [kevin.schmitz@confienon.de](mailto:kevin.schmitz@confienon.de)
 
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
 
 **Currently at** 
 </details>
 
 <br/>
-
-<div align="center">
-  <a href="mailto:kevin.schmitz@confienon.de">
-    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
-  </a>
-</div>
