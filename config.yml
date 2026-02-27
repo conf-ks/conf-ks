@@ -14,7 +14,7 @@ username: conf-ks
 
 # Profile information displayed in the galaxy header
 profile:
-  name: ""
+  name: "Conf-KS"
   tagline: "Developer & Open Source Explorer"
   company: ""
   location: "Düsseldorf Germany"
